@@ -1,0 +1,9 @@
+node_modules
+package-lock.json
+npm-debug.log
+coverage
+lib
+.nyc_output
+.idea
+docker/.env
+dist/*.js
